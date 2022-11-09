@@ -7,4 +7,6 @@
             </div>
         </div>
     </div>
+
+    <livewire:home-vacantes  />
 </x-app-layout>
